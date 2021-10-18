@@ -1,2 +1,2 @@
-# TugasPraktikumML_270-268
-Final Project Praktikum ML
+# Image Classification Citra Batik_270-268
+Final Project
