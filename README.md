@@ -1,2 +1,2 @@
-# Image Classification Citra Batik_270-268
+# Image Classification_270-268
 Final Project
