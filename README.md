@@ -10,6 +10,7 @@ Dataset berasal dari Alexander Mamaev yang ditemukan pada 16 juli 2021 dengan ju
 - Alogaritma Artificial Neural Network (ANN)
 - Alogaritma Convolutional Neural Network (CNN)
 - Alogaritma Transfer Learning VGG16
+- Alogaritma Transfer Learning InceptionV3
 
 -----------------------------------------------------------------------
 **Jurnal referensi**
