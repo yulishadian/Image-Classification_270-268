@@ -40,6 +40,11 @@ https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072055/meta
 - .json
 - .tflite
 
+Link Model : 
+- InceptionV3 & VGG : https://drive.google.com/drive/u/6/folders/15X8_Q4ZgH_dSQ0DEfJDdqH3ulur5I8Dz
+- ANN : https://drive.google.com/drive/folders/1e-KIRjRjRoDVF6n3BGYGJK0W_hTxaWr2?usp=sharing
+- CNN : https://drive.google.com/drive/folders/18Q9nJlHTjoI4JIexKWyse0CZjemz29lc?usp=sharing
+
 -----------------------------------------------------------------------
 **Authors**
 1. Eka Yunia Primastuti - ekayunnia@webmail.umm.ac.id
