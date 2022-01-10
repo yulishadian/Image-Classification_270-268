@@ -1,0 +1,2 @@
+Link drive Model CNN, ANN, VGG16, InceptionV3
+https://drive.google.com/drive/folders/15X8_Q4ZgH_dSQ0DEfJDdqH3ulur5I8Dz?usp=sharing
