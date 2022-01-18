@@ -1,7 +1,7 @@
 
 ![162362897_1d21b70621_m](https://user-images.githubusercontent.com/63344621/147844799-9d32cb9c-66be-41c6-ad8f-d00f571b584d.jpg)
 
-**Tugas Praktikum Image Classification Flowers_270-268**
+**Image Classification Flowers_270-268**
 -----------------------------------------------------------------------
 **Deskripsi** 
 
@@ -46,7 +46,7 @@ https://drive.google.com/drive/folders/15X8_Q4ZgH_dSQ0DEfJDdqH3ulur5I8Dz?usp=sha
 
 -----------------------------------------------------------------------
 **Authors**
-1. Eka Yunia Primastuti - ekayunnia@webmail.umm.ac.id
+1. Eka Yunia Primastuti - ekayunia45@gmail.com
 2. Yulisha Dian cahyaningrum - yulishacahya@gmail.com
 
 -----------------------------------------------------------------------
