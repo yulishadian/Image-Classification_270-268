@@ -30,6 +30,13 @@ https://www.researchgate.net/profile/Mohd-Azlan-Abu/publication/332850035_A_stud
 https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072055/meta
 
 -----------------------------------------------------------------------
+**PAPER Improving**
+Penanganan masalah overfiting dan underfiting pada klasifikasi jenis bunga CNN
+
+URL : https://drive.google.com/drive/folders/1dFR5aABm1CwT2ptwrvvO5OG1sIGYgSyX?usp=sharing
+
+
+-----------------------------------------------------------------------
 **Cara Pengeksekusian Program**
 - Download file .ipynb
 - Buka di Notebook atau google colabolatory
